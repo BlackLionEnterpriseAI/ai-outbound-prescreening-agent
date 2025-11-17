@@ -1,0 +1,19 @@
+Subject: Quick question about {{their_business_or_role}}
+
+Hi {{first_name}}, 
+
+I came across {{context_source}} and saw that you {{insert observation, e.g., are growing fast / offer X service / work with Y clients}}.
+
+We help businesses like yours automate outreach and pre-qualify leads using AI so you:
+- spend less time chasing unqualified leads
+- only talk to people who are ready for a real conversation
+
+Quick question:
+Would you be open to a short call if I could show you how to automate 50–80% of your outreach and lead screening?
+
+Either way, I appreciate your work.
+
+Best,  
+{{your_name}}
+{{your_business}}
+{{opt_out_line}}
