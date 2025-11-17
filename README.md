@@ -24,7 +24,7 @@ This agent is designed to:
 ---
 
 ## 🧩 Folder Structure
-```text
+
 scripts/                → Outreach templates & pre-screening questions
 prompts/                → AI prompt files (system, tone, personalization)
 workflows/              → Scenario blueprints for Make.com (and others)
